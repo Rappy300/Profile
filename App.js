@@ -1,4 +1,4 @@
-// App.js
+
 
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, SafeAreaView } from 'react-native';
